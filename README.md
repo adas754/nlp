@@ -10,6 +10,7 @@ NLP is used in Machine Learning and AI.
 Python helps in text processing.
 Google is located in the United States.
 Rahul earns 12 lakhs per year.
+
 """
 text = """
 <h1>Heyyyy!!!</h1>
